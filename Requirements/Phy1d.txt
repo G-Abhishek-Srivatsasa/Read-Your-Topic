@@ -1,0 +1,81 @@
+2. Motion in a Straight Line
+
+A.
+Motion
+1.   If an object changes its position with respect to its surroundings with
+     time, then it is called in motion.
+B.
+Rest
+1.   If an object does not change its position with respect to its
+  surroundings with time, then it is called at rest.
+  Rest and motion are relative states. It means an object which is at rest
+  in one frame of reference can be in motion in another frame of
+  reference at the same time.
+  
+2.   Point Object An object can be considered as a point object, if the distance travelled
+  by it is very large in comparison to its dimensions.
+
+C.
+Types of Motion
+     1. One Dimensional Motion
+           If only one out of three coordinates specifying the position of the object
+          changes with respect to time, then the motion is called one dimensional
+          motion or rectilinear motion.
+        
+           For instance, motion of a block in a straight line, motion of a train
+          along a straight track, a man walking on a level and narrow road and
+          object falling under gravity etc.
+     
+     2. Two Dimensional Motion
+           If only two out of three coordinates specifying the position of the object
+         change with respect to time, then the motion is called two dimensional
+         motion.
+           A circular motion is an instance of two dimensional motion.
+
+     3. Three Dimensional Motion
+           If all the three coordinates specifying the position of the object change
+         with respect to time, then the motion is called three dimensional
+         motion. A few instances of three dimension at motion are flying bird, a
+         flying kite, the random motion of gas molecule etc.
+D.
+Frame of Reference
+        The most convenient system is a rectangular coordinate system of
+     three mutually perpendicular axes as X, Y , and Z. The point of
+     intersection of these three axes is called origin (O) and considered as
+     the reference point. The x, y, z-coordinates describe the position of the
+     object w.r.t the coordinate system. This coordinate system along with a
+     clock constitutes a frame of reference.
+E.
+Distance or Path Length Covered
+       1. The length of the actual path covered by an object is called the
+          distance.
+       2. It is a scalar quantity and it can never be zero or negative during the
+          motion of an object. Its SI unit is metre.
+F.
+Displacement
+       1.  The shortest distance between the initial and final positions of any
+         object during motion is called displacement. The displacement of an
+         object in a given time can be positive, zero or negative.
+       2.  Displacement, (change in x = x2 - x1)
+         where, x1 and x2 are the initial and final positions of object,
+         respectively.
+       3. It is a vector quantity. Its SI unit is metre.
+G.
+Speed
+       1. The time rate of change of position of the object in any direction is
+         called speed of the object.
+
+       2. speed(s) = distance(x)/time(t)
+
+       3. Its SI unit is m/s.
+          It is a scalar quantity.
+          Its dimensional formula is [M LT ] 0 -1 .
+
+
+
+
+
+
+
+
+

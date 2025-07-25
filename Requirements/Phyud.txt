@@ -1,0 +1,54 @@
+1   Units and  Measurement
+
+The comparison of any physical quantity with its standard unit is
+called measurement.
+A.
+Physical Quantities
+    All the quantities which can be measured directly or indirectly in
+  terms of which the laws of Physics are described are called physical
+  quantities.
+
+2. Units
+A standard amount of a physical quantity chosen to measure the
+physical quantity of the same kind is called a physical unit. It should be
+easily reproducible, internationally accepted.
+
+3. Fundamental Quantities and Their Units
+Those physical quantities which are independent to each other are
+called fundamental quantities and their units are called
+fundamental units.
+Fundamental
+quantities
+
+4.Supplementary Fundamental Quantities and Their Units
+Radian and steradian are two supplementary fundamental units. It
+measures plane angle and solid angle respectively.
+
+5.Derived Quantities and Their Units
+Those physical quantities which are derived from fundamental
+quantities are called derived quantities and their units are called
+derived units e.g. Velocity, acceleration, force, work etc.
+B.
+Systems of Units
+    A system of units is the complete set of units, both fundamental and
+  derived, for all kinds of physical quantities. The common system of
+  units which is used in mechanics are given below:
+
+(i) CGS System : In this system, the unit of length is centimetre,
+                the unit of mass is gram and the unit of time is second.
+
+(ii) FPS System : In this system , the unit of length is foot, the unit
+                     of mass is pound and the unit of time is second.
+
+(iii) MKS System : In this system, the unit of length is metre, the
+                  unit of mass is kilogram and the unit of time is second.
+
+(iv) SI System : The system of units, which is accepted
+                Internationally for measurement is the System Internationality
+                units abbreviated as SI. This system contains seven
+                fundamental units and two supplementary fundamental units.
+
+
+
+
+

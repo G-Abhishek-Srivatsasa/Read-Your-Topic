@@ -1,0 +1,30 @@
+4.  Motion in a Plane (Projectile and Circular Motion)
+
+A.
+Motion in a Plane
+        1.  Motion in plane is called as motion in two dimensions, e.g. projectile
+           motion, circular motion. For the analysis of such motion our reference
+           will be made of an origin and two co-ordinate axes X and Y .
+        2.  Terms Related to Motion in Plane
+            i) Position Vector
+                  A vector that extends from a reference point to the point at which
+              particle is located is called position vector.
+
+                  Position vector is given by r = x i^ + y j^ + z k^
+              Direction of this position vector r is given by the angle q with X-axis, where, tanA = y/x
+
+           ii) Displacement Vector
+                 The displacement vector is a vector which gives the position of a point
+               with reference to a point other than the origin of the co-ordinate system.
+
+                 Direction of the displacement vector Dr is given by
+
+               tanA = change in y / change in x
+
+          iii) Velocity Vector
+                 Velocity of an object in motion is defined as the ratio of displacement
+               and the corresponding time interval taken by the object.
+                 (i) Average Velocity It is defined as the ratio of the displacement
+                     and the corresponding time interval.
+
+                       Average velocity = change in displacement / change in time = r2-r1/t2-t1
