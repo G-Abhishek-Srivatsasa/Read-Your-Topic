@@ -1,0 +1,2 @@
+# Read-Your-Topic
+This project of mine contains a python file which uses FILE HANDLING in python to read the text and also write it into the local computer . This project contains 3 subjects namely Math , Physics and Chemistry. if a user selects a subject it prints out the name of the chapters , and also takes in input and based on the chapter it gives out the text  in the particular chapter of that particular subject.
